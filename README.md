@@ -1,0 +1,1 @@
+**Credit to YeeCheater69 and Fatal for making wurst client into Eaglercraft possiable btw YeeCheater69 Broke the wurst client when porting and Fatal fixed it and this client is the very First Client that can run really Smoothly!! on any device!**
